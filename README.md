@@ -2,9 +2,9 @@
 
 This project is a simple Podcast App.
 
-<img src="emulator_1.png" height=480>
-<img src="emulator_2.png" height=480>
-<img src="emulator_3.png" height=480>
+<img src="simulator_1.png" height=480>
+<img src="simulator_2.png" height=480>
+<img src="simulator_3.png" height=480>
 
 ## Getting Started
 
