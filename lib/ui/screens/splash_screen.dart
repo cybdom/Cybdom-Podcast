@@ -16,9 +16,11 @@ class SplashScreen extends StatelessWidget {
               style: Theme.of(context).textTheme.headline4,
               textAlign: TextAlign.center,
             ),
-            Image.network(
-              splashPicture,
-              width: double.infinity,
+            Flexible(
+              child: Image.network(
+                splashPicture,
+                width: double.infinity,
+              ),
             ),
             Center(
               child: RaisedButton(
